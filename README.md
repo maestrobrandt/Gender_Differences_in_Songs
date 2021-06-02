@@ -22,7 +22,7 @@ This project aimed to investigate the topic differences between song lyrics writ
 
 #### Files
 - The code for the project is in Gender Differences in Songs.ipynb
-- The app runs in streamlit, and will requre the Spotify_API.py and Spotify_App.py files
+- The app runs in streamlit, and will requre the Song_Recommender_App.py file
 
 #### Technologies
 - Python
